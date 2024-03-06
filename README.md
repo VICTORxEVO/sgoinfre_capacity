@@ -8,8 +8,8 @@
 ```bash
 git clone https://github.com/VICTORxEVO/sgoinfre_capacity.git
 cd sgoinfre_capacity
-chmod +x storage.sh
-./storage.sh
+chmod +x setup.sh
+./setup.sh
 ```
 ---
 ### Thanks for using this script
