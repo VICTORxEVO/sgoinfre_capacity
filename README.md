@@ -4,6 +4,7 @@ To navigate to your home directory, run the following command:
 
 ```bash
 cd ~
+<!-- Hide button and JavaScript code from Markdown rendering -->
 <!-- begin hide -->
 <button onclick="copyToClipboard('cd ~')">Copy</button>
 <script>
