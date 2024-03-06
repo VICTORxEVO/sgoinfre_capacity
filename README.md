@@ -7,7 +7,9 @@
 ### usage
 ```bash
 git clone https://github.com/VICTORxEVO/sgoinfre_capacity.git
-./sgoinfre_capacity/storage.sh
+cd sgoinfre_capacity
+chmod +x storage.sh
+./storage.sh
 ```
 ---
 ### Thanks for using this script
