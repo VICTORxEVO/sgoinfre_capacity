@@ -1,6 +1,13 @@
-## Usage
+# script to show the used capacity of your sgoinfree
+---
+### Caution !!!
+#### this script work only in linux clusters that have sgoinfre
 
-To navigate to your home directory, run the following command:
+
+### usage
 ```bash
-cd ~
+git clone https://github.com/VICTORxEVO/sgoinfre_capacity.git
+./sgoinfre_capacity/storage.sh
 ```
+---
+### Thanks for using this script
