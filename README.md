@@ -4,12 +4,8 @@ To navigate to your home directory, run the following command:
 
 ```bash
 cd ~
+<!-- begin hide -->
 <button onclick="copyToClipboard('cd ~')">Copy</button>
-
-
-
-
-
 <script>
 function copyToClipboard(command) {
   var textarea = document.createElement('textarea');
@@ -21,3 +17,4 @@ function copyToClipboard(command) {
   alert('Command copied to clipboard: ' + command);
 }
 </script>
+<!-- end hide -->
