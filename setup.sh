@@ -9,4 +9,5 @@ sleep 2
 echo -e "\e[32mnow you can type \"storage\" to see your sgoinfre used capacity\e[0m"
 echo -e "\e[32mEnjoy !!!!\e[0m"
 
-exec $shell	
+exec $shell
+exit 0
